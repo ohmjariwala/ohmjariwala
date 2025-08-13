@@ -1,5 +1,7 @@
 - Hi, I’m Ohm Jariwala, a Quantitative Finance student at Stevens Institute of Technology!
 
+- Previous SWE Intern @ Vanguard
+
 - I'm hoping to develop a deeper understanding into Quantitative Trading/Research and better understand the applications and use cases of technology in rigorous problems. 
 
 
